@@ -9,9 +9,9 @@
 
 <hr>
 <h1>Executive Dashboard</h1>
-<img width="569" alt="dashboard" src="https://github.com/arkapriyade/Sales-and-Analytical-Dashboard/assets/63455000/ac85c328-7eed-4e77-81a2-66e7e02b2460">
+<img width=80% alt="dashboard" src="https://github.com/arkapriyade/Sales-and-Analytical-Dashboard/assets/63455000/ac85c328-7eed-4e77-81a2-66e7e02b2460">
 
 <hr>
 <h1>HR Dashboard</h1>
-<img width="549" alt="hr_dashboard" src="https://github.com/arkapriyade/Sales-and-Analytical-Dashboard/assets/63455000/debb2eb8-2683-4177-a7c1-3f3faa534ef9">
+<img width=80% alt="hr_dashboard" src="https://github.com/arkapriyade/Sales-and-Analytical-Dashboard/assets/63455000/debb2eb8-2683-4177-a7c1-3f3faa534ef9">
 
